@@ -1,0 +1,17 @@
+.productImage img{
+    height: 400px;
+    width: 400px;
+}
+.productImage{
+    margin-right: 20px;
+}
+.productDetails .mrp{
+    text-decoration: line-through;
+}
+.productPrice{
+    font-weight: bold;
+    font-size: 25px;
+}
+.productDiscount{
+    font-size: 20px;
+}

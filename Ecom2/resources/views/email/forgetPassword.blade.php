@@ -1,0 +1,1 @@
+Hey {{$name}}. Your OTP is : {{$token}}

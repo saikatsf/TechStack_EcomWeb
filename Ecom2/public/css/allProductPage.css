@@ -1,0 +1,7 @@
+.products img{
+    height: 200px;
+}
+.products .mrp{
+    font-size: 12px;
+    text-decoration: line-through;
+}
